@@ -1,0 +1,1 @@
+This Python script fetches the current temperature and weather description for a specified city using the OpenWeatherMap API. Simply run the script, enter the city name when prompted, and get instant weather updates. Dependencies include Python 3.x and the Requests library.
